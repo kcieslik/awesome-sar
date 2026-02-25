@@ -132,6 +132,7 @@ Software capable of multiple processing steps
 * [pyrocko](https://pyrocko.org) - Offers tools for surface displacement modeling from various finite and extended earthquake dislocation sources.
 * [grond](https://pyrocko.org) - Modern probabilistic surface displacement inversion (works with [kite](https://github.com/pyrocko/kite)).
 * [SARscape](https://www.sarmap.ch/index.php/software/sarscape/) - SARscape provides models for the analytic modeling of geophysical sources developed in collaboration with INGV.
+* [EQ-INSAR](https://github.com/kcieslik/eq-insar) - Synthetic InSAR data generator for machine learning from earthquake source parameters.
 
 ### System configuration and installation
 * [insar_instal](https://github.com/mgovorcin/insar_inst) - Set of scripts that automatically install InSAR software
